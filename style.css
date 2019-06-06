@@ -1,0 +1,66 @@
+body {
+    background-color: pink;
+}
+h1 {
+    color: black;
+}
+h1 {
+  text-align: center;
+}
+h1 {
+    font-size: 200%;
+}
+h2 {
+  text-align: center;
+}
+h2 {
+    font-size: 200%;
+}
+h2 {
+    color: black;
+}
+h3 {
+  color: purple;
+}
+a {
+ font-size: 130%
+}
+p {
+  font-size: 100%;
+}
+p {
+    color: black;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 5px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+img {
+    border-radius: 8px;
+}
+box-sizing: border-box;
+}
+h1 {
+  border: 10px solid red;
+  padding: 15px;
+}
+h1 {
+  width: 100%;
+  float: center;
+  padding: 15px;
+  border: 10px solid SeaShell;
+  background-color: white;
+}
+.container {
+  height: 150px;
+  background-color: SeaShell;
+}
